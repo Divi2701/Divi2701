@@ -1,4 +1,4 @@
-<img align="centre" src="https://github.com/Divi2701/Divi2701/blob/main/banner2.jpg/">
+<img align="centre" height="24px" src="https://github.com/Divi2701/Divi2701/blob/main/banner2.jpg/">
 
 <h1 align="center">Heyy 👋, I'm Divi Srivastava</h1>
 <h3 align="center">A homo sapien trying to figure out stuffs!</h3>
