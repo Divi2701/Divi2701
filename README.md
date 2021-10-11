@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divi2701&label=Profile%20views&color=0e75b6&style=flat" alt="divi2701" /> </p>
 
-- 🌱 I’m currently learning **java, html & css**
+- 🌱 I’m currently learning **java, webD**
 
 - 👯 I’m looking to collaborate with **any content creator :)**
 
